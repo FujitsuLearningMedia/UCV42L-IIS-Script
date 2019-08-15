@@ -1,1 +1,1 @@
-Install-WindowsFeature Web-Server -IncludeAllSubFeature
+Install-WindowsFeature Web-Server
