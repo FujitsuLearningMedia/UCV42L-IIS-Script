@@ -1,2 +1,3 @@
 # UCV42L-IIS-Script
-IISインストールスクリプト。
+- IISのインストール
+- pingを通過させるためにFirewallを設定
